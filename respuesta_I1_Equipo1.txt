@@ -1,1 +1,3 @@
 Lautaro Cardozo,Francisco Cuenca,Tomas Cobos
+Si,veo los archivos que subieron los demas
+Si,los demas integrantes pueden ver los archivos subidos por ALFA
