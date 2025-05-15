@@ -3,3 +3,4 @@ Si,veo los archivos que subieron los demas
 Si,los demas integrantes pueden ver los archivos subidos por ALFA
 Sí, los demás integrantes lo ven
 Nos comunicamos vía Discord
+La mejor forma de comunicarse dentro de GitHub mediante el comentario dentro de los commits
